@@ -20,7 +20,7 @@
 	<key>StartCalendarInterval</key>
 	<array>
 		<dict>
-			<key>Hour</key>
+			<key>Day</key>
 			<integer>2</integer>
 		</dict>
 	</array>
